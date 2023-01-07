@@ -1,3 +1,1 @@
-# Qr_Scanner
-Source Code Dari Channel Youtube Saya "Millenialz Dev"
-https://www.youtube.com/afwansutdrajat
+QR code dari saya untuk Mata Kuliah Pemrograman Mobile 1
